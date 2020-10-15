@@ -1,0 +1,7 @@
+name: ReactAV
+version: ${project.version}
+main: dev.dejay.reactav.ReactAV
+api-version: 1.16
+authors: [ DeJayDev ]
+description: ReactAV is a tool to detect and undo malicious code injected in plugins.
+website: https://dejay.dev
